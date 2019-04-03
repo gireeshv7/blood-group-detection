@@ -1,0 +1,151 @@
+name,blood_type,Quantity
+Alabama,A-,23750
+Alabama,AB+,12250
+Alabama,B+,9500
+Alabama,O+,19000
+Alaska,A+,13250
+Arizona,AB-,18750
+Arizona,O-,6250
+Arkansas,A+,17000
+Arkansas,B+,9750
+Arkansas,B-,9250
+Arkansas,O+,12000
+California,A+,16250
+California,A-,17500
+California,AB+,7000
+California,AB-,9500
+California,B+,34000
+California,B-,5000
+California,O+,19750
+California,O-,7250
+Colorado,AB+,5750
+Colorado,B+,9000
+Colorado,O+,9000
+Connecticut,A+,7500
+Delaware,AB-,5250
+Florida,A+,7000
+Florida,A-,7750
+Florida,AB+,9500
+Florida,B+,18750
+Florida,B-,7250
+Florida,O+,15500
+Florida,O-,10750
+Georgia,A+,10000
+Georgia,AB-,4250
+Georgia,B+,9000
+Georgia,B-,3750
+Georgia,O-,6250
+Hawaii,A+,5250
+Idaho,B+,4500
+Idaho,O+,4500
+Illinois,A+,4250
+Illinois,A-,3250
+Illinois,AB+,5000
+Illinois,AB-,6750
+Illinois,B+,4750
+Illinois,O+,4000
+Illinois,O-,5250
+Indiana,A+,6000
+Indiana,B+,13750
+Indiana,B-,8250
+Indiana,O+,9750
+Iowa,A-,6250
+Iowa,AB+,6500
+Iowa,O+,5500
+Kansas,A+,3250
+Kansas,B+,4750
+Kentucky,AB-,9000
+Kentucky,B+,4500
+Kentucky,B-,5250
+Kentucky,O-,6500
+Louisiana,A+,5750
+Louisiana,B+,5500
+Louisiana,O+,3500
+Maine,A-,8000
+Maine,O+,9250
+Maryland,AB+,3000
+Maryland,B+,6000
+Massachusetts,A+,2000
+Michigan,AB-,3000
+Michigan,O-,4000
+Minnesota,B+,2500
+Minnesota,B-,4000
+Mississippi,A+,2000
+Mississippi,A-,4250
+Mississippi,B+,3250
+Mississippi,O+,2000
+Missouri,A+,4250
+Missouri,AB+,4500
+Missouri,B+,4500
+Missouri,O+,3000
+Montana,AB-,7500
+Montana,O-,4500
+Nebraska,B+,2500
+Nebraska,B-,6000
+Nevada,A+,6250
+New Hampshire,O+,4500
+New Jersey,A-,7750
+New Jersey,AB+,2750
+New Jersey,B+,5750
+New Jersey,O+,5750
+New Mexico,B+,7500
+New York,A+,11250
+New York,AB-,7750
+New York,B+,2750
+New York,B-,6750
+New York,O-,10250
+North Carolina,A-,7250
+North Carolina,B+,3250
+North Carolina,O+,4000
+North Dakota,O+,4250
+Ohio,A+,7500
+Ohio,AB+,6500
+Ohio,AB-,4000
+Ohio,B+,5000
+Oklahoma,B-,7500
+Oklahoma,O-,5250
+Oregon,A+,3750
+Oregon,B+,5250
+Pennsylvania,A-,3000
+Pennsylvania,AB+,5000
+Pennsylvania,B+,5000
+Pennsylvania,O+,7000
+Rhode Island,B+,5000
+South Carolina,A+,9500
+South Carolina,AB-,5500
+South Carolina,B+,4250
+South Carolina,B-,2750
+South Carolina,O-,5750
+South Dakota,O+,3500
+Tennessee,A-,2500
+Tennessee,AB+,5500
+Tennessee,B+,13000
+Tennessee,O+,4250
+Texas,A+,10500
+Texas,A-,3750
+Texas,AB+,1500
+Texas,AB-,6250
+Texas,B+,7250
+Texas,B-,3750
+Texas,O+,6000
+Texas,O-,4500
+Utah,A+,2250
+Utah,AB-,3000
+Utah,B+,2500
+Vermont,B-,7500
+Vermont,O-,6250
+Virginia,A+,4250
+Virginia,A-,4250
+Virginia,B+,12500
+Virginia,O+,2500
+Washington,A+,1750
+Washington,AB+,2000
+Washington,B+,7000
+Washington,O+,2000
+West Virginia,AB-,2500
+Wisconsin,A+,8250
+Wisconsin,B+,12750
+Wisconsin,B-,2250
+Wisconsin,O+,10000
+Wisconsin,O-,2500
+Wyoming,B+,13000

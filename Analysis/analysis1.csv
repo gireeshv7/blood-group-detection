@@ -1,0 +1,71 @@
+name,blood_type,Count_of_People_BloodType_in_every_State
+Alaska,A+,2
+Alaska,A-,1
+Alaska,B+,2
+Arizona,AB-,1
+California,A-,1
+California,AB+,2
+California,AB-,2
+California,B+,5
+California,B-,2
+California,O+,1
+California,O-,2
+Colorado,AB-,1
+Florida,A+,1
+Florida,A-,1
+Idaho,B-,1
+Illinois,A-,1
+Illinois,AB+,2
+Illinois,AB-,1
+Indiana,B+,1
+Kansas,A+,1
+Kansas,AB-,1
+Kansas,O-,1
+Louisiana,A-,1
+Louisiana,B+,1
+Louisiana,O+,1
+Maryland,A-,1
+Maryland,B+,2
+Maryland,O-,1
+Massachusetts,AB+,1
+Michigan,A+,1
+Michigan,O-,1
+Minnesota,B-,1
+New Jersey,A+,1
+New Jersey,AB+,1
+New Jersey,AB-,1
+New Jersey,B-,2
+New Jersey,O+,2
+New Jersey,O-,1
+New Mexico,AB-,1
+New Mexico,O+,1
+New York,A+,2
+New York,A-,2
+New York,AB-,2
+New York,B+,2
+New York,O-,2
+North Carolina,AB-,1
+Ohio,A+,1
+Ohio,AB+,1
+Ohio,B+,3
+Ohio,B-,2
+Oregon,O+,1
+Pennsylvania,A+,1
+Pennsylvania,A-,2
+Pennsylvania,B+,2
+Pennsylvania,B-,1
+Pennsylvania,O+,1
+Pennsylvania,O-,1
+Rhode Island,A+,1
+Rhode Island,B+,1
+South Carolina,B+,1
+South Dakota,O+,1
+Tennessee,A-,1
+Tennessee,O+,1
+Texas,AB+,4
+Texas,B+,1
+Texas,B-,2
+Virginia,B+,1
+Wisconsin,O+,2
+Wisconsin,O-,2
+Wyoming,B+,1
